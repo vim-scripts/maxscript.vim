@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1930
+
+This file will provide basic highlighting for MAXScript release 8.0. Comments, keywords, numbers, and strings are currently highlighted.
